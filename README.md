@@ -1,5 +1,6 @@
-# StackGAN-pytorch
+# StackGAN-paddle
 - [Tensorflow implementation](https://github.com/hanzhanggit/StackGAN)
+- [Pytroch implementation](https://github.com/hanzhanggit/StackGAN-Pytorch)
 
 - [Inception score evaluation](https://github.com/hanzhanggit/StackGAN-inception-model)
 
