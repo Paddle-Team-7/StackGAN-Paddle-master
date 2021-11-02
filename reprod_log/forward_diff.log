@@ -1,0 +1,13 @@
+[2021/11/02 11:00:08] root INFO: embedding1: 
+[2021/11/02 11:00:08] root INFO: 	mean diff: check passed: True, value: 1.7383539940851733e-08
+[2021/11/02 11:00:08] root INFO: embedding2: 
+[2021/11/02 11:00:08] root INFO: 	mean diff: check passed: True, value: 9.473961615213966e-10
+[2021/11/02 11:00:08] root INFO: stage1_img: 
+[2021/11/02 11:00:08] root INFO: 	mean diff: check passed: True, value: 8.076832536119127e-09
+[2021/11/02 11:00:08] root INFO: fake_img: 
+[2021/11/02 11:00:08] root INFO: 	mean diff: check passed: True, value: 5.320506257788793e-09
+[2021/11/02 11:00:08] root INFO: mu: 
+[2021/11/02 11:00:08] root INFO: 	mean diff: check passed: True, value: 4.7286448534578085e-08
+[2021/11/02 11:00:08] root INFO: logvar: 
+[2021/11/02 11:00:08] root INFO: 	mean diff: check passed: True, value: 4.92109393235296e-08
+[2021/11/02 11:00:08] root INFO: diff check passed
