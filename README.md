@@ -38,3 +38,4 @@ We have trained the two stage models. But we can not get evaluate datasets, so w
 **Evaluating**
 - Run `python main.py --cfg cfg/coco_eval.yml`
 
+[]https://github.com/Paddle-Team-7/StackGAN-Paddle-master/blob/master/fake_samples_epoch_118.png
