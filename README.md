@@ -32,7 +32,7 @@ We have trained the two stage models. But we can not get evaluate datasets, so w
 
 
 **Pretrained Model**
-- [StackGAN for coco](https://drive.google.com/open?id=0B3y_msrWZaXLYjNra2ZSSmtVQlE). Download and save it to `models/coco`.
+- [StackGAN for coco](链接: https://pan.baidu.com/s/13wgCoESnQ41PqYVJ3PGnqQ)dlga. Download and save it to `models/coco`.
 
 
 **Evaluating**
