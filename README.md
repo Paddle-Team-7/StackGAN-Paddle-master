@@ -11,6 +11,10 @@ python 3.7
 Paddle
 
 
+**Reproduction**
+
+We have trained the two stage models. But we can not get evaluate datasets, so we can't get results.
+
 **Data**
 
 1. Download our preprocessed char-CNN-RNN text embeddings for [training coco](https://drive.google.com/open?id=0B3y_msrWZaXLQXVzOENCY2E3TlU) and  [evaluating coco](https://drive.google.com/open?id=0B3y_msrWZaXLeEs5MTg0RC1fa0U), save them to `data/coco`.
