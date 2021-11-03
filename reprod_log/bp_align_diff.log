@@ -1,31 +1,31 @@
-[2021/11/02 09:30:44] root INFO: errD0_0: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: True, value: 0.0
-[2021/11/02 09:30:44] root INFO: errD0_1: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: True, value: 0.0
-[2021/11/02 09:30:44] root INFO: errD0_2: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: True, value: 3.5762786865234375e-07
-[2021/11/02 09:30:44] root INFO: errD0_3: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: True, value: 1.1920928955078125e-07
-[2021/11/02 09:30:44] root INFO: errD0_4: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: True, value: 2.384185791015625e-07
-[2021/11/02 09:30:44] root INFO: errG_0: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: False, value: 0.00021514892578267109
-[2021/11/02 09:30:44] root INFO: errG_1: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: False, value: 9.231567383238826e-05
-[2021/11/02 09:30:44] root INFO: errG_2: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: False, value: 4.57763671875e-05
-[2021/11/02 09:30:44] root INFO: errG_3: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: False, value: 0.00012512207031178946
-[2021/11/02 09:30:44] root INFO: errG_4: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: False, value: 0.0001239776611328125
-[2021/11/02 09:30:44] root INFO: kl_0: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: True, value: 0.0
-[2021/11/02 09:30:44] root INFO: kl_1: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: True, value: 1.1920928955078125e-07
-[2021/11/02 09:30:44] root INFO: kl_2: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: True, value: 1.1920928955078125e-07
-[2021/11/02 09:30:44] root INFO: kl_3: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: True, value: 1.7881393432617188e-07
-[2021/11/02 09:30:44] root INFO: kl_4: 
-[2021/11/02 09:30:44] root INFO: 	mean diff: check passed: True, value: 5.960464477539063e-08
-[2021/11/02 09:30:44] root INFO: diff check failed
+[2021/11/04 00:34:05] root INFO: errD0_0: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: True, value: 1.1920928955078125e-07
+[2021/11/04 00:34:05] root INFO: errD0_1: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: False, value: 1.895427703857422e-05
+[2021/11/04 00:34:05] root INFO: errD0_2: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: False, value: 0.005592823028564453
+[2021/11/04 00:34:05] root INFO: errD0_3: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: False, value: 0.0001112222671508789
+[2021/11/04 00:34:05] root INFO: errD0_4: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: False, value: 5.078315734863281e-05
+[2021/11/04 00:34:05] root INFO: errG_0: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: True, value: 5.960464477539063e-08
+[2021/11/04 00:34:05] root INFO: errG_1: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: False, value: 3.5919249057769775e-05
+[2021/11/04 00:34:05] root INFO: errG_2: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: False, value: 5.1781535148620605e-05
+[2021/11/04 00:34:05] root INFO: errG_3: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: False, value: 4.3064355850219727e-05
+[2021/11/04 00:34:05] root INFO: errG_4: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: False, value: 1.0073184967041016e-05
+[2021/11/04 00:34:05] root INFO: kl_0: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: True, value: 3.725290298461914e-09
+[2021/11/04 00:34:05] root INFO: kl_1: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: False, value: 1.3597309589385986e-06
+[2021/11/04 00:34:05] root INFO: kl_2: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: False, value: 2.9802322387695312e-06
+[2021/11/04 00:34:05] root INFO: kl_3: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: False, value: 1.7583370208740234e-06
+[2021/11/04 00:34:05] root INFO: kl_4: 
+[2021/11/04 00:34:05] root INFO: 	mean diff: check passed: True, value: 3.948807716369629e-07
+[2021/11/04 00:34:05] root INFO: diff check failed
