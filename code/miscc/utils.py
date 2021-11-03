@@ -82,7 +82,7 @@ def compute_generator_loss(netD, fake_imgs, real_labels, conditions, gpus):
         # fake_logits = \
         #     nn.parallel.data_parallel(netD.get_uncond_logits,
         #                               (fake_features), gpus)
-        netD.get_uncond_logits(fake_features)
+        fake_logits = netD.get_uncond_logits(fake_features)
         uncond_errD_fake = criterion(fake_logits, real_labels)
         errD_fake += uncond_errD_fake
     return errD_fake
